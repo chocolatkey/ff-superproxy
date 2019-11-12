@@ -1,0 +1,12 @@
+{
+  "name": "ff-superproxy",
+  "version": "0.0.1",
+  "description": "Proof-of-concept proxy to proxy the Firefox/Cloudflare proxy",
+  "main": "index.js",
+  "repository": "https://github.com/chocolatkey/ff-superproxy",
+  "author": "chocolatkey",
+  "license": "MIT",
+  "dependencies": {
+    "node-http-proxy": "^0.2.3"
+  }
+}
