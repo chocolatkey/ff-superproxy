@@ -8,6 +8,10 @@ Firefox private network is a new offering from Mozilla that gives you access to 
 - Who knows when it will stop working, the API requests made here have changed in the latest version of the extension
 - Currently, the proxy is free, however Mozilla seems to intend to charge for it later on after the beta period
 
+## Why Node.js?
+
+Because I could copy-paste from the extension, and I haven't gotten proxying working with golang yet. Clearly too stupid to do so.
+
 # Usage
 
 1. Clone the repo
